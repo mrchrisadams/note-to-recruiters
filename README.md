@@ -4,6 +4,8 @@ This **NTR Policy** was set up by [vzaar](http://vzaar.com) after doing several 
 
 This mainly stems from two issues
 
+BAWBAGS
+
 * Recruiters phone a lot, tech companies work better by email
 * There are too many recruiters to effectively manage
  
